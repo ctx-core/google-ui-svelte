@@ -1,5 +1,15 @@
 # @ctx-core/google-ui-svelte
 
+## 1.0.5
+
+### Patch Changes
+
+- \*.d.ts export
+- Updated dependencies
+  - @ctx-core/dom@11.0.44
+  - @ctx-core/error@11.1.13
+  - @ctx-core/object@22.0.4
+
 ## 1.0.4
 
 ### Patch Changes
