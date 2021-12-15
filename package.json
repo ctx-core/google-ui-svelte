@@ -1,26 +1,26 @@
 {
 	"name": "@ctx-core/google-ui-svelte",
-	"version": "1.0.2",
+	"version": "1.0.3",
 	"description": "ctx-core google",
 	"keywords": [
 		"ctx-core",
 		"google"
 	],
-	"homepage": "https://github.com/ctx-core/google#readme",
+	"homepage": "https://github.com/ctx-core/google-ui-svelte#readme",
 	"bugs": {
-		"url": "https://github.com/ctx-core/google/issues"
+		"url": "https://github.com/ctx-core/google-ui-svelte/issues"
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/ctx-core/google/issues"
+		"url": "https://github.com/ctx-core/google-ui-svelte.git"
 	},
 	"license": "Apache-2.0",
 	"author": "Brian Takita",
 	"type": "module",
 	"exports": {
 		".": {
-			"types": "./src/index.ts",
-			"import": "./dist/index.js"
+			"import": "./dist/index.js",
+			"types": "./src/index.ts"
 		},
 		"./package.json": "./package.json"
 	},
@@ -32,12 +32,12 @@
 		"prepublishOnly": "npm run clean && npm run build"
 	},
 	"dependencies": {
-		"@ctx-core/dom": "workspace:^11.0.41",
-		"@ctx-core/error": "workspace:^11.1.10",
-		"@ctx-core/object": "workspace:^22.0.1"
+		"@ctx-core/dom": "workspace:^11.0.42",
+		"@ctx-core/error": "workspace:^11.1.11",
+		"@ctx-core/object": "workspace:^22.0.2"
 	},
 	"devDependencies": {
-		"@ctx-core/ctx-core-package-tools": "workspace:^8.0.88",
+		"@ctx-core/ctx-core-package-tools": "workspace:^8.0.89",
 		"@sveltejs/adapter-auto": "next",
 		"@sveltejs/kit": "next",
 		"@swc/cli": "^0.1.55",
