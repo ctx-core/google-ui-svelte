@@ -1,5 +1,15 @@
 # @ctx-core/google-ui-svelte
 
+## 1.0.4
+
+### Patch Changes
+
+- fix: tsconfig.json: "rootDir": "."
+- Updated dependencies
+  - @ctx-core/dom@11.0.43
+  - @ctx-core/error@11.1.12
+  - @ctx-core/object@22.0.3
+
 ## 1.0.3
 
 ### Patch Changes
