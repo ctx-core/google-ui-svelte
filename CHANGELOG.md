@@ -1,5 +1,14 @@
 # @ctx-core/google-ui-svelte
 
+## 1.0.11
+
+### Patch Changes
+
+- .js + .d.ts instead of .ts
+- Updated dependencies
+  - @ctx-core/dom@11.1.2
+  - @ctx-core/error@11.1.18
+
 ## 1.0.10
 
 ### Patch Changes
