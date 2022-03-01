@@ -1,5 +1,11 @@
 # @ctx-core/google-ui-svelte
 
+## 1.0.17
+
+### Patch Changes
+
+- typescript: ^4.5.5 -> ^4.6.2
+
 ## 1.0.16
 
 ### Patch Changes
