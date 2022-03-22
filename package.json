@@ -42,7 +42,7 @@
 	"devDependencies": {
 		"@sveltejs/adapter-auto": "next",
 		"@sveltejs/kit": "next",
-		"@swc/cli": "^0.1.55",
+		"@swc/cli": "^0.1.56",
 		"@swc/core": "^1.2.159",
 		"@types/google.analytics": "^0.0.42",
 		"rimraf": "^3.0.2",
