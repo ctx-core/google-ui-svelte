@@ -33,9 +33,9 @@
 		"prepublishOnly": "npm run clean && npm run build"
 	},
 	"dependencies": {
-		"@ctx-core/dom": "^11.1.11",
+		"@ctx-core/dom": "^11.1.12",
 		"@ctx-core/error": "^11.4.3",
-		"@ctx-core/object": "^22.1.5"
+		"@ctx-core/object": "^22.1.6"
 	},
 	"devDependencies": {
 		"@sveltejs/adapter-auto": "next",
