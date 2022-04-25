@@ -1,5 +1,11 @@
 # @ctx-core/google-ui-svelte
 
+## 1.0.22
+
+### Patch Changes
+
+- tslib: ^2.3.1 -> ^2.4.0
+
 ## 1.0.21
 
 ### Patch Changes
