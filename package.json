@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/google-ui-svelte",
-	"version": "1.0.28",
+	"version": "1.0.29",
 	"description": "ctx-core google",
 	"keywords": [
 		"ctx-core",
@@ -33,7 +33,7 @@
 		"prepublishOnly": "npm run clean && npm run build"
 	},
 	"dependencies": {
-		"@ctx-core/dom": "^11.1.18",
+		"@ctx-core/dom": "^11.1.19",
 		"@ctx-core/error": "^11.4.7",
 		"@ctx-core/object": "^22.1.10"
 	},
