@@ -35,13 +35,13 @@
 	"dependencies": {
 		"@ctx-core/dom": "^11.1.21",
 		"@ctx-core/error": "^11.4.8",
-		"@ctx-core/object": "^22.2.0"
+		"@ctx-core/object": "^22.2.1"
 	},
 	"devDependencies": {
 		"@sveltejs/adapter-auto": "next",
 		"@sveltejs/kit": "next",
 		"@swc/cli": "^0.1.57",
-		"@swc/core": "^1.2.194",
+		"@swc/core": "^1.2.196",
 		"@types/google.analytics": "^0.0.42",
 		"rimraf": "^3.0.2",
 		"svelte": "^3.48.0",
