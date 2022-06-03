@@ -1,5 +1,11 @@
 # @ctx-core/google-ui-svelte
 
+## 1.0.32
+
+### Patch Changes
+
+- .js + .d.ts instead of .ts
+
 ## 1.0.31
 
 ### Patch Changes
