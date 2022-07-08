@@ -1,5 +1,11 @@
 # @ctx-core/google-ui-svelte
 
+## 1.0.33
+
+### Patch Changes
+
+- svelte: ^3.48.0 -> ^3.49.0
+
 ## 1.0.32
 
 ### Patch Changes
