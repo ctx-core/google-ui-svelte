@@ -1,5 +1,11 @@
 # @ctx-core/google-ui-svelte
 
+## 1.0.41
+
+### Patch Changes
+
+- svelte2tsx: ^0.5.18 -> ^0.5.19
+
 ## 1.0.40
 
 ### Patch Changes
