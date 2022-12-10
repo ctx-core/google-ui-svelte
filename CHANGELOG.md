@@ -1,5 +1,11 @@
 # @ctx-core/google-ui-svelte
 
+## 1.0.50
+
+### Patch Changes
+
+- svelte-preprocess: ^4.10.7 -> ^5.0.0
+
 ## 1.0.49
 
 ### Patch Changes
