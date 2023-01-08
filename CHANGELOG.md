@@ -1,5 +1,13 @@
 # @ctx-core/google-ui-svelte
 
+## 1.0.72
+
+### Patch Changes
+
+- @ctx-core/dom: ^11.2.18 -> ^11.2.19
+- Updated dependencies
+  - @ctx-core/google@11.0.56
+
 ## 1.0.71
 
 ### Patch Changes
