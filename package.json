@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/google-ui-svelte",
-	"version": "1.0.82",
+	"version": "1.0.83",
 	"description": "ctx-core google",
 	"keywords": [
 		"ctx-core",
@@ -35,7 +35,7 @@
 	"dependencies": {
 		"@ctx-core/dom": "^11.2.24",
 		"@ctx-core/error": "^11.5.13",
-		"@ctx-core/google": "^11.0.61",
+		"@ctx-core/google": "^11.0.62",
 		"@ctx-core/object": "^24.0.1"
 	},
 	"devDependencies": {
@@ -49,7 +49,7 @@
 		"svelte-preprocess": "^5.0.1",
 		"svelte2tsx": "^0.6.0",
 		"tslib": "^2.5.0",
-		"typescript": "^4.9.4"
+		"typescript": "^4.9.5"
 	},
 	"publishConfig": {
 		"access": "public",
