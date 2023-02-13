@@ -1,5 +1,11 @@
 # @ctx-core/google-ui-svelte
 
+## 1.1.2
+
+### Patch Changes
+
+- fix: import \*/index.svelte
+
 ## 1.1.1
 
 ### Patch Changes
