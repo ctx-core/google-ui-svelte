@@ -1,5 +1,11 @@
 # @ctx-core/google-ui-svelte
 
+## 1.1.1
+
+### Patch Changes
+
+- package.json: fix: ∋ svelte
+
 ## 1.1.0
 
 ### Minor Changes
