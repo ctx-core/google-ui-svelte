@@ -1,5 +1,16 @@
 # @ctx-core/google-ui-svelte
 
+## 1.1.32
+
+### Patch Changes
+
+- import*meta_env*() instead of process.env
+- Updated dependencies
+- Updated dependencies
+- Updated dependencies
+  - @ctx-core/env@17.2.18
+  - @ctx-core/google@11.2.0
+
 ## 1.1.31
 
 ### Patch Changes
