@@ -33,7 +33,7 @@
 		"test-unit-coverage": "c8 pnpm test-unit"
 	},
 	"dependencies": {
-		"@ctx-core/env": "^17.2.63",
+		"@ctx-core/env": "^17.2.75",
 		"@ctx-core/google": "^11.2.67",
 		"svelte": "^3.58.0"
 	},
