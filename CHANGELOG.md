@@ -1,5 +1,14 @@
 # @ctx-core/google-ui-svelte
 
+## 1.1.118
+
+### Patch Changes
+
+- @ctx-core/monorepo: ^20.3.3 -> ^20.3.4
+- Updated dependencies
+  - @ctx-core/env@17.2.83
+  - @ctx-core/google@11.2.86
+
 ## 1.1.117
 
 ### Patch Changes
