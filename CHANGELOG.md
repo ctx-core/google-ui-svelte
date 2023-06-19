@@ -1,5 +1,13 @@
 # @ctx-core/google-ui-svelte
 
+## 1.1.163
+
+### Patch Changes
+
+- @ctx-core/env: ^17.2.114 -> ^17.2.115
+- Updated dependencies
+  - @ctx-core/google@11.2.129
+
 ## 1.1.162
 
 ### Patch Changes
