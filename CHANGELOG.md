@@ -1,5 +1,24 @@
 # @ctx-core/google-ui-svelte
 
+## 1.2.0
+
+### Minor Changes
+
+- fix:types package.json exports
+- tsconfig:
+
+      "module": "ESNext"
+      "moduleResolution": "nodenext"
+      "target": "ESNext"
+
+### Patch Changes
+
+- package.json: - "svelte": "./src/index.js"
+- Updated dependencies
+- Updated dependencies
+  - @ctx-core/env@17.4.0
+  - @ctx-core/google@11.3.0
+
 ## 1.1.224
 
 ### Patch Changes
