@@ -1,5 +1,14 @@
 # @ctx-core/google-ui-svelte
 
+## 1.2.2
+
+### Patch Changes
+
+- fix: missing tsconfig.json
+- Updated dependencies
+  - @ctx-core/env@17.4.2
+  - @ctx-core/google@11.3.2
+
 ## 1.2.1
 
 ### Patch Changes
