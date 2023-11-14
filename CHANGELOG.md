@@ -1,5 +1,14 @@
 # @ctx-core/google-ui-svelte
 
+## 1.2.3
+
+### Patch Changes
+
+- package.json: files: + \*.js
+- Updated dependencies
+  - @ctx-core/env@17.4.3
+  - @ctx-core/google@11.3.3
+
 ## 1.2.2
 
 ### Patch Changes
