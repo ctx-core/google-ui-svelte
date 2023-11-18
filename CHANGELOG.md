@@ -1,5 +1,11 @@
 # @ctx-core/google-ui-svelte
 
+## 1.2.15
+
+### Patch Changes
+
+- @ctx-core/google: ^11.3.14 -> ^11.3.15
+
 ## 1.2.14
 
 ### Patch Changes
