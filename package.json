@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/google-ui-svelte",
-	"version": "1.2.33",
+	"version": "1.2.34",
 	"description": "ctx-core google",
 	"keywords": [
 		"ctx-core",
@@ -39,8 +39,8 @@
 		"test-unit-coverage": "c8 pnpm test-unit"
 	},
 	"dependencies": {
-		"@ctx-core/env": "^17.4.32",
-		"@ctx-core/google": "^11.3.32",
+		"@ctx-core/env": "^17.4.33",
+		"@ctx-core/google": "^11.3.33",
 		"svelte": "^4.2.7"
 	},
 	"devDependencies": {
