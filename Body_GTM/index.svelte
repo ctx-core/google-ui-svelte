@@ -1,5 +1,5 @@
 <script>
-import { import_meta_env_ } from '@ctx-core/env'
+import { import_meta_env_ } from 'ctx-core/env'
 export let GTM_ID = import_meta_env_().GTM_ID
 </script>
 
