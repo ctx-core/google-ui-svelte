@@ -1,5 +1,13 @@
 # @ctx-core/google-ui-svelte
 
+## 1.2.159
+
+### Patch Changes
+
+- svelte: ^4.2.11 -> ^4.2.12
+- Updated dependencies
+  - @ctx-core/google@11.3.158
+
 ## 1.2.158
 
 ### Patch Changes
