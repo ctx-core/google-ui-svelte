@@ -1,5 +1,14 @@
 # @ctx-core/google-ui-svelte
 
+## 1.2.233
+
+### Patch Changes
+
+- chore: migrate scripts from pnpm to bun
+- Updated dependencies
+  - @ctx-core/env@17.6.90
+  - @ctx-core/google@11.3.224
+
 ## 1.2.232
 
 ### Patch Changes
